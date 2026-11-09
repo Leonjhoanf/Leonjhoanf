@@ -102,13 +102,6 @@ Soy **Jhoan Felipe León**, odontólogo y desarrollador. Uno la práctica clíni
 | 🧠 **[Taller 2 RNN](https://github.com/Leonjhoanf/taller-rnn)** | Taller de redes neuronales en notebook. | Python · NumPy · Jupyter |
 | 🎮 **[Ahorcado](https://github.com/Leonjhoanf/Ahorcado)** | Juego del ahorcado con IA generativa y pruebas automatizadas. | React · TypeScript · Express · Gemini |
 
-## 📊 GitHub en números
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leonjhoanf&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonjhoanf&layout=compact&hide_border=true&theme=tokyonight&locale=es&langs_count=8" alt="Lenguajes más usados" />
-</div>
-
 ## 📫 Contacto
 
 ¿Tienes un proyecto de salud digital o quieres colaborar? Escríbeme por [GitHub](https://github.com/Leonjhoanf).
